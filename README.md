@@ -13,7 +13,7 @@ Projeto desenvolvido durnte Curso de HTML5 e CSS3, promovido pelo <a href="https
 
 
 ## 🚀 Tecnologias
-![image](https://github.com/user-attachments/assets/10396181-8956-4770-a775-8f9457128fbc)
+![image border-radius: 50%](https://github.com/user-attachments/assets/10396181-8956-4770-a775-8f9457128fbc)
 ![image](https://github.com/user-attachments/assets/ceee85a9-8124-474b-83d2-1330cee4e143)
 
 
